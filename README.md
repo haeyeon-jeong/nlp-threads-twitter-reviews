@@ -113,3 +113,13 @@ The report includes:
 - Model performance comparison (TF-IDF vs DistilBERT)  
 - Topic modeling approach (LDA, NMF, BERTopic)  
 - Final insights and conclusions  
+
+---
+
+## Key Insights
+
+- Threads reviews are generally more positive but focus on bugs, missing features, and comparisons to other platforms  
+- Twitter reviews are more neutral and often related to platform changes and leadership (e.g., Elon Musk)  
+- DistilBERT outperforms traditional models by capturing contextual meaning more effectively  
+- BERTopic provides the most coherent and meaningful topics for short, noisy social media text  
+- VADER struggles with mixed or nuanced sentiment, leading to some labeling noise  
