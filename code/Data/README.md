@@ -13,7 +13,4 @@ Original dataset:
 - Twitter Reviews Dataset: [Kaggle - Twitter Reviews](https://www.kaggle.com/datasets/bwandowando/2-million-formerly-twitter-google-reviews)
 
 
-## Notes [[[[should be edited]]]]
-- Removed missing values and outliers.
-- Standardized numeric features using blah blah blah....
 
