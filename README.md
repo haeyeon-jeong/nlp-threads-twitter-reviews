@@ -93,10 +93,10 @@ python comparative_analysis_threads_twitter.py
 
 Make sure the dataset files are placed in the Data/ folder:
 
-threads_reviews.csv
-threads_reviews_labelled.csv
-twitter_reviews.csv
-twitter_reviews_labelled.csv
+- threads_reviews.csv
+- threads_reviews_labelled.csv
+- twitter_reviews.csv
+- twitter_reviews_labelled.csv
 
 ---
 
